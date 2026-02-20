@@ -88,9 +88,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahul00Sharma&show_icons=true&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arun00Sharma&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul00Sharma&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arun00Sharma&layout=compact)
 
 ---
 
